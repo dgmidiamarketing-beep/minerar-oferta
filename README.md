@@ -26,7 +26,7 @@ Claude (Skill) · claude.ai e Claude Code · Biblioteca de Anúncios grátis, se
 
 > **Por que funciona:** ninguém paga anúncio por meses no prejuízo. Anúncio que roda há muito tempo, com várias versões, costuma ser oferta que vende. **É sinal, não garantia de venda.**
 
-<img src="assets/cartao.png" alt="Cartão de anúncio desenhado com anunciante fictício. Setas mostram o que a Skill lê: data de início (dias no ar), número de anúncios (versões), texto (promessa) e domínio no rodapé (onde vende)." width="100%">
+<img src="assets/cartao.png" alt="Cartão agrupado de anúncio, desenhado com anunciante fictício. Setas mostram o que a Skill lê: data de início (dias no ar), 3 anúncios usam esse criativo (versões), texto (promessa) e o botão Ver resumo, que é onde aparece o site quando o cartão é agrupado (onde vende)." width="100%">
 
 **Regra de ouro:** ela não inventa. Preço, link ou formato que não aparece no print fica como **"não aparece"**.
 
@@ -93,7 +93,7 @@ Depois abre o Claude Code, arrasta os prints pro terminal e escreve `minerar ofe
 | # | Anunciante | Início | Dias no ar | Versões | Onde vende | Preço | Formato | Promessa | Sinal |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Exemplo Fit A | 10/05/2026 | 191 | 4 | Hotmart | não aparece | curso | secar a barriga treinando 15 minutos | Forte |
-| 2 | Exemplo Receitas B | 02/08/2026 | 107 | 1 | site próprio (exemplo.com.br) | R$ 27 | e-book | 50 receitas pra emagrecer sem passar fome | Médio |
+| 2 | Exemplo Receitas B | 02/08/2026 | 107 | 1 | site próprio (seusite.com.br) | R$ 27 | e-book | 50 receitas pra emagrecer sem passar fome | Médio |
 | 3 | Exemplo Clínica C | 20/09/2026 | 58 | várias | WhatsApp | não aparece | serviço local | perder peso com acompanhamento semanal | Forte |
 | 4 | Exemplo Mentor D | 09/11/2026 | 8 | 1 | não aparece | não aparece | não aparece | emagrecer depois dos 40 sem academia | Fraco |
 
